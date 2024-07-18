@@ -1,2 +1,9 @@
 myenv
 .github/
+bin
+build
+dist
+dm_sonnet.egg-info
+docs
+lib
+sonnet
